@@ -1,6 +1,5 @@
-# Project Name
 
-Clone the Figma design using HTML and CSS
+# Clone the Figma design using HTML and CSS
 
 Open [[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)]. to view it in your browser.
 
