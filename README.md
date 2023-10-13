@@ -1,8 +1,7 @@
 
 # Clone the Figma design using HTML and CSS
 
-Open [[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)]. to view it in your browser.
-
+Open [[https://zippy-meerkat-ceb3c8.netlify.app](https://zippy-meerkat-ceb3c8.netlify.app)]. to view it in your browser.
 
 ## Features
 - **Startup 3:** Description of the Startup 3 feature.
