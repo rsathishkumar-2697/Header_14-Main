@@ -2,6 +2,8 @@
 
 Clone the Figma design using HTML and CSS
 
+Open [http://localhost:3004/login](http://localhost:3004/login). to view it in your browser.
+
 
 ## Features
 - **Startup 3:** Description of the Startup 3 feature.
